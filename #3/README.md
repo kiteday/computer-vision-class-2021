@@ -5,7 +5,7 @@
 ```
 - Translate Matrix, Rotation Matrix
 ```
-* library : openCV, numpy 
+* library : openCV, numpy, matplotlib, math
 * Code
   * code by kiteday: geometric_transform.py
   * answer code : answer_geo_transform.py
