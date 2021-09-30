@@ -8,6 +8,3 @@
   - mopology 모폴로지 연산 적용
 ```
 * library : openCV, numpy 
-* Code
-  * code by kiteday: geometric_transform.py
-  * answer code : answer_geo_transform.py
