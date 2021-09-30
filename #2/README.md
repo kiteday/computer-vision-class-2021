@@ -1,7 +1,4 @@
 ## 3주차 과제 : 히스토그램 역투영하기
-과제 제출 파일 geometric_transform.py
-과제 정답 파일 answer_geo_transform.py
-
 
 * 문제
 ```- 히스토그램 정규화
@@ -11,3 +8,6 @@
   - 모폴로지 연산 적용
 ```
 * openCV, numpy 사용
+* Code
+  * code by kiteday: geometric_transform.py
+  * answer code : answer_geo_transform.py
