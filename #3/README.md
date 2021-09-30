@@ -1,11 +1,13 @@
 ## 3주차 과제 : 히스토그램 역투영하기
-### 과제 제출 파일 geometric_transform.py
-### 과제 정답 파일 answer_geo_transform.py
+* 과제 제출 파일 geometric_transform.py
+* 과제 정답 파일 answer_geo_transform.py
+
+* 과제
 첨부한 베이스 코드를 기반으로 히스토그램 역투영 코드를 완성하세요.
 추가로 모폴로지 연산을 적용하여 히스토그램 역투영 결과를 개선시켜보세요. 
 
-* openCV, numpy 사용
-* 코드 목록
+openCV, numpy 사용
+코드 목록
   - 히스토그램 정규화
   - 비율 히스토그램 계산
   - 히스토그램 역투영
